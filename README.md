@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/hive-intel-crypto-mcp-onchain-dex-badge.png)](https://mseep.ai/app/hive-intel-crypto-mcp-onchain-dex)
+
 # Hive MCP On-Chain DEX & Pool Analytics
 
 ## Overview
